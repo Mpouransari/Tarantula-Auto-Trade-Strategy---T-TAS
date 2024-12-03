@@ -112,4 +112,4 @@ This strategy follows all Price Action rules required for market analysis + a se
 
 MIT License
 
-&copy; 2024 Tarantula Trade All rights reserved.
+&copy; 2025 MAPSIM.co All rights reserved.
